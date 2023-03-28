@@ -7,4 +7,8 @@ public static void main(String args[]){
 	if(number = 0){
 		System.print.out("bokenasu");
 	}
+	// feature/バグ修正2
+	if(number = 1000){
+		System.print.out("fjgksfjgk");
+	}
 }
