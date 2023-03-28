@@ -11,4 +11,8 @@ public static void main(String args[]){
 	if(number = 1000){
 		System.print.out("fjgksfjgk");
 	}
+	// feature/バグ修正aaaaa
+	for(int i = 0; i < 5; i++){
+		System.print.out(i);
+	}
 }
