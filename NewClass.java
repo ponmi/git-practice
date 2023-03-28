@@ -1,5 +1,10 @@
 public static void main(String args[]){
 	String hoge = "takashima";
 	System.print.out(hoge);
-	System.print.out("‚ ‚Ù");
+	System.print.out("ã‚ã»");
+	int number = 0;
+	// feature/ãƒã‚°ä¿®æ­£
+	if(number = 0){
+		System.print.out("bokenasu");
+	}
 }
