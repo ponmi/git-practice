@@ -19,4 +19,7 @@ public static void main(String args[]){
 	System.print.out("����");
 	//feature/バグ修正ほげ
 	System.print.out("ほげほげほげほげほげほげ");
+	
+	//rebase後 修正
+	System.print.out("AFTER REBASE");
 }
