@@ -16,6 +16,7 @@ public static void main(String args[]){
 	for(int i = 0; i < 5; i++){
 		System.print.out(i);
 	}
+	System.print.out("Today is 04/07/2023!");
 	System.print.out("����");
 	//feature/バグ修正ほげ
 	System.print.out("ほげほげほげほげほげほげ");
