@@ -1,3 +1,4 @@
 サル先生のGitコマンド
 add 変更をインデックスに登録する
 さらに追加18：36
+This is my file. This is test for git tag command.
